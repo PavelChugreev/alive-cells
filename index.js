@@ -52,4 +52,4 @@ function updateGrid(grid) {
 setInterval(() => {
     grid = updateGrid(grid);
     console.log(grid)
-}, 4000)
+}, 1000)
